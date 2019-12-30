@@ -1,2 +1,2 @@
-# gocs.gitbuh.io
+# gocs.github.io
  
